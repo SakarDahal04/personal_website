@@ -19,7 +19,7 @@
 }
 
 .text p {
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 400;
     letter-spacing: 2px;
 }
@@ -41,7 +41,7 @@
 .link a {
     color: white;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 2.25rem;
     font-weight: 400;
     letter-spacing: 1.5px;
 }
@@ -50,6 +50,7 @@
     .container {
         flex-direction: column;
         gap: 23px;
+        margin: 0;
     }
 
     .text {
@@ -58,7 +59,20 @@
         align-items: center;
     }
 
+    .text h2 {
+        font-size: 3rem;
+    }
+
+    .text p {
+        font-size: 1.5rem;
+    }
+
     .links {
         align-items: center;
+        justify-content: start;
+    }
+
+    .link a {
+        font-size: 1.5rem;
     }
 }
