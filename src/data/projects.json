@@ -1,0 +1,26 @@
+[
+  {
+    "title": "API for Book Review Application",
+    "imageSrc": "projects/api.png",
+    "description": "Book Review API system with complete built-in authentication for user with email verification and user based review and book addition system.",
+    "skills": ["Django", "DRF", "JWT"],
+    "demo": "#",
+    "source": "https://github.com/SakarDahal04/API-for-Book-Review-App"
+  },
+  {
+    "title": "Detection and Prevention of Citrus Diseases",
+    "imageSrc": "projects/disease_detection.jpg",
+    "description": "Disease Detection system with mobile application with image processing.",
+    "skills": ["Django",  "RAG", "DRF", "JWT","MobileNetV2", "Azure"],
+    "demo": "#",
+    "source": "https://github.com/SakarDahal04/Disease-Detection_Website"
+  },
+  {
+    "title": "URL Shortening Application",
+    "imageSrc": "projects/url_shortner.png",
+    "description": "Simple URL shortening application with Django for backend and React for the frontend with user based content and authentication.",
+    "skills": ["Django", "React", "DRF", "JWT"],
+    "demo": "#",
+    "source": "https://github.com/SakarDahal04/URL-Shortner-project"
+  }
+]
